@@ -1,7 +1,7 @@
 from requests import get
 import requests
 from bs4 import BeautifulSoup
-FILE_NAME = "Lab_1 copy/institutes.txt"
+FILE_NAME = "Lab_1/institutes.txt"
 BASE_URL = "https://lpnu.ua/institutes"
 
 # page_2 = get(BASE_URL, verify=False)
