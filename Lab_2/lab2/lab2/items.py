@@ -19,3 +19,9 @@ class InstituteItem(scrapy.Item):
 class DepartmentItem(scrapy.Item):
     name = scrapy.Field()
     url = scrapy.Field()
+    institute = scrapy.Field()
+    
+class StaffItem(scrapy.Item):
+    name = scrapy.Field()
+    department = scrapy.Field()
+    institute = scrapy.Field()
