@@ -1,6 +1,6 @@
 import scrapy
 from bs4 import BeautifulSoup
-from lab2.items import InstituteItem
+from lab2.items import InstituteItem, DepartmentItem
 
 class LpnuSpider(scrapy.Spider):
     name = "lpnu"
@@ -12,6 +12,7 @@ class LpnuSpider(scrapy.Spider):
         soup = BeautifulSoup(response.body, "html.parser")
         institutes_list = soup.find(class_="view-content") # шукає список усіх інститутів із їхніми підкафедри зі сторінки вищевказаної(загальний)
         institute_paragraphs = institutes_list.find_all(class_="item-list") # шукає для кожного інституту список кафедр(поокремо потім)
+        
         for institute_paragraph in institute_paragraphs:
             institute_name = institute_paragraph.find('h3').get_text(strip=True, separator=" ") #назва інституту яка записана у h3
             institute_link_end = institute_paragraph.find('a').get("href") #посилання інституту
@@ -19,43 +20,34 @@ class LpnuSpider(scrapy.Spider):
                 name=institute_name,
                 url=f"https://lpnu.ua{institute_link_end}"
             )
+            # тут я зупинилась і до цього місця все працює. тобто є: список інститутів та посилання на сайт.
             
+        for institute_paragraph in institute_paragraphs:
+            institute_link_end = institute_paragraph.find('a').get("href")
             yield scrapy.Request(
                 # адреса сторінки, яку необхідно парсити
                 url=f"https://lpnu.ua{institute_link_end}",
                 # метод для обробки результатів завантаження
                 callback=self.parse_faculty,
                 # передаємо дані про факультет в функцію колбеку
-                meta={
-                    "faculty": institute_name
-                }
+                meta={"faculty": institute_name}
             )
             
+            # працює: зайти на сайт кожного інституту і зберегти список назв кафедр + посилання на кожну кафедру. 
+
     def parse_faculty(self, response):
         soup = BeautifulSoup(response.body,  "html.parser")
-        
+        dep_list = soup.find(class_="item-list")
+        departments_names = dep_list.find_all('li') #список усіх кафедр
         # для кожної кафедри у списку
         if dep_list:
-            for li in dep_list.find_all("li"):
-                # знаходимо текст безпосередньо в контенті елементу  a
-                dep_name = li.a.find(string=True, recursive=False)
-                # URL кафедри
-                dep_url = f"https://uzhnu.edu.ua{li.a.get('href')}"
+            for department in departments_names:
+                dep_name = department.find('a').get_text(strip=True, separator=" ") # назва кафедри
+                dep_url = department.find('a').get("href") # URL кафедри
                 # повертаємо дані про кафедру
                 yield DepartmentItem(
                     name=dep_name,
                     url=dep_url,
-                    # факультет дізнаємось із метаданих, переданих при запиті
-                    faculty=response.meta.get("faculty")
                 )
-                # також повертаємо запит для запуска скрапінгу працівників на сторінці кафедри
-                yield scrapy.Request(
-                    # адреса сторінки, яку необхідно парсити
-                    url=dep_url+"/staff",
-                    # метод для обробки результатів завантаження
-                    callback=self.parse_department,
-                    # передаємо дані про кафедру в функцію колбеку
-                    meta={
-                        "department": dep_name
-                    }
-                )
+                
+# треба: зайти на сайт кожної кафедри та зберегти: дані про завідувача кафедри.  
