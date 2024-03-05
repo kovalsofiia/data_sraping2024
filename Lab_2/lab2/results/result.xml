@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items>
+<item><name>Адміністрування, державного управління та професійного розвитку інститут</name><url>https://lpnu.ua/iadu</url></item>
+<item><name>Архітектури та дизайну інститут</name><url>https://lpnu.ua/iard</url></item>
+<item><name>Будівництва та інженерних систем інститут</name><url>https://lpnu.ua/ibis</url></item>
+<item><name>Геодезії інститут</name><url>https://lpnu.ua/igdg</url></item>
+<item><name>Гуманітарних та соціальних наук інститут</name><url>https://lpnu.ua/ihsn</url></item>
+<item><name>Економіки і менеджменту інститут</name><url>https://lpnu.ua/inem</url></item>
+<item><name>Енергетики та систем керування інститут</name><url>https://lpnu.ua/iesk</url></item>
+<item><name>Комп'ютерних наук та інформаційних технологій інститут</name><url>https://lpnu.ua/ikni</url></item>
+<item><name>Комп'ютерних технологій, автоматики та метрології інститут</name><url>https://lpnu.ua/ikta</url></item>
+<item><name>Механічної інженерії та транспорту інститут</name><url>https://lpnu.ua/imit</url></item>
+<item><name>Права, психології та інноваційної освіти інститут</name><url>https://lpnu.ua/ippo</url></item>
+<item><name>Прикладної математики та фундаментальних наук інститут</name><url>https://lpnu.ua/imfn</url></item>
+<item><name>Просторового планування та перспективних технологій інститут</name><url>https://lpnu.ua/ippt</url></item>
+<item><name>Сталого розвитку і ім. В.Чорновола інститут</name><url>https://lpnu.ua/istr</url></item>
+<item><name>Телекомунікацій, радіоелектроніки та електронної техніки інститут</name><url>https://lpnu.ua/itre</url></item>
+<item><name>Хімії та хімічних технологій інститут</name><url>https://lpnu.ua/ikhkht</url></item>
+<item><name>АВКТ Кафедра автоматизації та комп'ютерно-інтегрованих технологій</name><url>https://lpnu.ua/avkt </url><institute>Енергетики та систем керування інститут</institute></item>
+<item><name>ЕКС Кафедра електромехатроніки та комп'ютеризованих електромеханічних систем</name><url>https://lpnu.ua/eks </url><institute>Енергетики та систем керування інститут</institute></item>
+<item><name>ЕСУ Кафедра електроенергетики та систем управління</name><url>https://lpnu.ua/esu </url><institute>Енергетики та систем керування інститут</institute></item>
+<item><name>ТЗЕ Кафедра теоретичної та загальної електротехніки</name><url>https://lpnu.ua/tze </url><institute>Енергетики та систем керування інститут</institute></item>
+<item><name>ТТАЕ Кафедра теплоенергетики, теплових та атомних електричних станцій</name><url>https://lpnu.ua/ttae </url><institute>Енергетики та систем керування інститут</institute></item>
+<item><name>АФМ Кафедра адміністративного та фінансового менеджменту</name><url>https://lpnu.ua/afm </url><institute>Адміністрування, державного управління та професійного розвитку інститут</institute></item>
+<item><name>ЕКМ Кафедра економіки і маркетингу</name><url>https://lpnu.ua/ekm </url><institute>Просторового планування та перспективних технологій інститут</institute></item>
+<item><name>ІМ Кафедра іноземних мов</name><url>https://lpnu.ua/im </url><institute>Гуманітарних та соціальних наук інститут</institute></item>
+<item><name>АДМ Кафедра автомобільних доріг та мостів</name><url>https://lpnu.ua/adm </url><institute>Будівництва та інженерних систем інститут</institute></item>
+<item><name>АП Кафедра архітектурного проектування</name><url>https://lpnu.ua/ap </url><institute>Архітектури та дизайну інститут</institute></item>
+<item><name>ВГА Кафедра вищої геодезії та астрономії</name><url>https://lpnu.ua/vha </url><institute>Геодезії інститут</institute></item>
+<item><name>ДПВ Кафедра державної політики та врядування</name><url>https://lpnu.ua/dpv </url><institute>Адміністрування, державного управління та професійного розвитку інститут</institute></item>
+<item><name>НУОЦ Німецько-Український освітній центр</name><url>https://lpnu.ua/nuots </url><institute>Адміністрування, державного управління та професійного розвитку інститут</institute></item>
+<item><name>ПУС Кафедра публічного управління та публічної служби</name><url>https://lpnu.ua/pus </url><institute>Адміністрування, державного управління та професійного розвитку інститут</institute></item>
+<item><name>РМР Кафедра регіонального та місцевого розвитку</name><url>https://lpnu.ua/rmr </url><institute>Адміністрування, державного управління та професійного розвитку інститут</institute></item>
+<item><name>ІСТ Кафедра інформаційних систем і технологій</name><url>https://lpnu.ua/ist </url><institute>Просторового планування та перспективних технологій інститут</institute></item>
+<item><name>ФОА Кафедра фінансів, обліку і аналізу</name><url>https://lpnu.ua/foa </url><institute>Просторового планування та перспективних технологій інститут</institute></item>
+<item><name>ІМКС Кафедра історії, музеєзнавства та культурної спадщини</name><url>https://lpnu.ua/imks </url><institute>Гуманітарних та соціальних наук інститут</institute></item>
+<item><name>КФ Кафедра філософії</name><url>https://lpnu.ua/kf </url><institute>Гуманітарних та соціальних наук інститут</institute></item>
+<item><name>МЦПП «Інтеграція» Міжнародний центр професійного партнерства «Інтеграція» - International “Integration” Centre for Professional Partnerships</name><url>https://lpnu.ua/integration </url><institute>Гуманітарних та соціальних наук інститут</institute></item>
+<item><name>НАЦ ПД «Вектор» Науково-аналітичний центр політичних досліджень «Вектор»</name><url>https://lpnu.ua/nats-pd-vektor </url><institute>Гуманітарних та соціальних наук інститут</institute></item>
+<item><name>БВ Кафедра будівельного виробництва</name><url>https://lpnu.ua/bv </url><institute>Будівництва та інженерних систем інститут</institute></item>
+<item><name>БКМ Кафедра будівельних конструкцій та мостів</name><url>https://lpnu.ua/bkm </url><institute>Будівництва та інженерних систем інститут</institute></item>
+<item><name>ГВІ Кафедра гідротехніки та водної інженерії</name><url>https://lpnu.ua/hvi </url><institute>Будівництва та інженерних систем інститут</institute></item>
+<item><name>ОМБМ Кафедра опору матеріалів та будівельної механіки</name><url>https://lpnu.ua/ombm </url><institute>Будівництва та інженерних систем інститут</institute></item>
+<item><name>ТГВ Кафедра теплогазопостачання і вентиляції</name><url>https://lpnu.ua/thv </url><institute>Будівництва та інженерних систем інститут</institute></item>
+<item><name>АПІ Кафедра архітектурного проектування та інженерії</name><url>https://lpnu.ua/api </url><institute>Архітектури та дизайну інститут</institute></item>
+<item><name>АТР Кафедра архітектури та реставрації</name><url>https://lpnu.ua/atr </url><institute>Архітектури та дизайну інститут</institute></item>
+<item><name>ДАС Кафедра дизайну архітектурного середовища</name><url>https://lpnu.ua/das </url><institute>Архітектури та дизайну інститут</institute></item>
+<item><name>ДОА Кафедра дизайну та основ архітектури</name><url>https://lpnu.ua/doa </url><institute>Архітектури та дизайну інститут</institute></item>
+<item><name>ІГД Кафедра інженерної геодезії</name><url>https://lpnu.ua/igd </url><institute>Геодезії інститут</institute></item>
+<item><name>КГ Кафедра геодезії</name><url>https://lpnu.ua/kh </url><institute>Геодезії інститут</institute></item>
+<item><name>КГМ Кафедра картографії та геопросторового моделювання</name><url>https://lpnu.ua/khm </url><institute>Геодезії інститут</institute></item>
+<item><name>КДТ Кафедра кадастру територій</name><url>https://lpnu.ua/kdt </url><institute>Геодезії інститут</institute></item>
+<item><name>ТПЕ Кафедра теоретичної та прикладної економіки</name><url>https://lpnu.ua/tpe </url><institute>Адміністрування, державного управління та професійного розвитку інститут</institute></item>
+<item><name>ПМВ Кафедра політології та міжнародних відносин</name><url>https://lpnu.ua/pmv </url><institute>Гуманітарних та соціальних наук інститут</institute></item>
+<item><name>СКІД Кафедра соціальних комунікацій та інформаційної діяльності</name><url>https://lpnu.ua/skid </url><institute>Гуманітарних та соціальних наук інститут</institute></item>
+<item><name>СР Кафедра соціології та соціальної роботи</name><url>https://lpnu.ua/sr </url><institute>Гуманітарних та соціальних наук інститут</institute></item>
+<item><name>УМ Кафедра української мови</name><url>https://lpnu.ua/um </url><institute>Гуманітарних та соціальних наук інститут</institute></item>
+<item><name>МБ Кафедра містобудування</name><url>https://lpnu.ua/mb </url><institute>Архітектури та дизайну інститут</institute></item>
+<item><name>ФГІ Кафедра фотограмметрії та геоінформатики</name><url>https://lpnu.ua/fhi </url><institute>Геодезії інститут</institute></item>
+<item><name>УП Кафедра управління проектами</name><url>https://lpnu.ua/up </url><institute>Адміністрування, державного управління та професійного розвитку інститут</institute></item>
+<item><name>ФВ Кафедра фізичного виховання</name><url>https://lpnu.ua/fv </url><institute>Гуманітарних та соціальних наук інститут</institute></item>
+<item><name>ЦПАС Центр професійної атестації та сертифікації</name><url>https://lpnu.ua/tsentr-profesiinoi-atestatsii-ta-sertyfikatsii </url><institute>Адміністрування, державного управління та професійного розвитку інститут</institute></item>
+<item><name>ЦПКПС Центр підвищення кваліфікації публічних службовців</name><url>https://lpnu.ua/tsentr-pidvyshchennia-kvalifikatsii-publichnykh-sluzhbovtsiv </url><institute>Адміністрування, державного управління та професійного розвитку інститут</institute></item>
+<item><name>ЦПКФ Центр підвищення кваліфікації фахівців</name><url>https://lpnu.ua/tspkf </url><institute>Адміністрування, державного управління та професійного розвитку інститут</institute></item>
+<item><name>ВМ Кафедра вищої математики</name><url>https://lpnu.ua/vm </url><institute>Прикладної математики та фундаментальних наук інститут</institute></item>
+<item><name>ЕПІ Кафедра економіки підприємства та інвестицій</name><url>https://lpnu.ua/epi </url><institute>Економіки і менеджменту інститут</institute></item>
+<item><name>БІТ Кафедра безпеки інформаційних технологій</name><url>https://lpnu.ua/bit </url><institute>Комп'ютерних технологій, автоматики та метрології інститут</institute></item>
+<item><name>Проєкт «До вершин з РОШЕН»</name><url>https://lpnu.ua/do-vershyn-z-roshen </url><institute>Хімії та хімічних технологій інститут</institute></item>
+<item><name>АСУ Кафедра автоматизованих систем управління</name><url>https://lpnu.ua/asu </url><institute>Комп'ютерних наук та інформаційних технологій інститут</institute></item>
+<item><name>АІП Кафедра адміністративного та інформаційного права</name><url>https://lpnu.ua/aip </url><institute>Права, психології та інноваційної освіти інститут</institute></item>
+<item><name>АТ Кафедра автомобільного транспорту</name><url>https://lpnu.ua/at </url><institute>Механічної інженерії та транспорту інститут</institute></item>
+<item><name>ЕЗІКТ Кафедра електронних засобів інформаційно-комп’ютерних технологій</name><url>https://lpnu.ua/ezikt </url><institute>Телекомунікацій, радіоелектроніки та електронної техніки інститут</institute></item>
+<item><name>КЗФ Кафедра загальної фізики</name><url>https://lpnu.ua/kzf </url><institute>Прикладної математики та фундаментальних наук інститут</institute></item>
+<item><name>ЗМД Кафедра зовнішньоекономічної та митної діяльності</name><url>https://lpnu.ua/zmd </url><institute>Економіки і менеджменту інститут</institute></item>
+<item><name>МЛ Кафедра маркетингу і логістики</name><url>https://lpnu.ua/ml </url><institute>Економіки і менеджменту інститут</institute></item>
+<item><name>ММП Кафедра менеджменту і міжнародного підприємництва</name><url>https://lpnu.ua/mmp </url><institute>Економіки і менеджменту інститут</institute></item>
+<item><name>МО Кафедра менеджменту організацій</name><url>https://lpnu.ua/mo </url><institute>Економіки і менеджменту інститут</institute></item>
+<item><name>МПА Кафедра менеджменту персоналу та адміністрування</name><url>https://lpnu.ua/mpa </url><institute>Економіки і менеджменту інститут</institute></item>
+<item><name>ЕОМ Кафедра електронних обчислювальних машин</name><url>https://lpnu.ua/eom </url><institute>Комп'ютерних технологій, автоматики та метрології інститут</institute></item>
+<item><name>ЗІ Кафедра захисту інформації</name><url>https://lpnu.ua/zi </url><institute>Комп'ютерних технологій, автоматики та метрології інститут</institute></item>
+<item><name>ІВТ Кафедра інформаційно-вимірювальних технологій</name><url>https://lpnu.ua/ivt </url><institute>Комп'ютерних технологій, автоматики та метрології інститут</institute></item>
+<item><name>ІМР Кафедра інтелектуальної мехатроніки і роботики</name><url>https://lpnu.ua/imr </url><institute>Комп'ютерних технологій, автоматики та метрології інститут</institute></item>
+<item><name>ОХ Кафедра органічної хімії</name><url>https://lpnu.ua/oh </url><institute>Хімії та хімічних технологій інститут</institute></item>
+<item><name>ТБСФБ Кафедра технології біологічно активних сполук, фармації та біотехнології</name><url>https://lpnu.ua/tbsfb </url><institute>Хімії та хімічних технологій інститут</institute></item>
+<item><name>ТОП Кафедра технології органічних продуктів</name><url>https://lpnu.ua/top </url><institute>Хімії та хімічних технологій інститут</institute></item>
+<item><name>ФАЗХ Кафедра фізичної, аналітичної та загальної хімії</name><url>https://lpnu.ua/fazh </url><institute>Хімії та хімічних технологій інститут</institute></item>
+<item><name>ХІ Кафедра хімічної інженерії</name><url>https://lpnu.ua/hi </url><institute>Хімії та хімічних технологій інститут</institute></item>
+<item><name>ХТНГ Кафедра хімічної технології переробки нафти та газу</name><url>https://lpnu.ua/khtnh </url><institute>Хімії та хімічних технологій інститут</institute></item>
+<item><name>ІСМ Кафедра інформаційних систем та мереж</name><url>https://lpnu.ua/ism </url><institute>Комп'ютерних наук та інформаційних технологій інститут</institute></item>
+<item><name>ІТВС Кафедра інформаційних технологій видавничої справи</name><url>https://lpnu.ua/itvs </url><institute>Комп'ютерних наук та інформаційних технологій інститут</institute></item>
+<item><name>ННВЦ Навчально-науково-виробничий центр «Інформаційні технології та системи»</name><url>https://lpnu.ua/nnvts </url><institute>Комп'ютерних наук та інформаційних технологій інститут</institute></item>
+<item><name>ПЗ Кафедра програмного забезпечення</name><url>https://lpnu.ua/pz </url><institute>Комп'ютерних наук та інформаційних технологій інститут</institute></item>
+<item><name>ПЛ Кафедра прикладної лінгвістики</name><url>https://lpnu.ua/prl </url><institute>Комп'ютерних наук та інформаційних технологій інститут</institute></item>
+<item><name>ЖЗМК Кафедра журналістики та засобів масової комунікації</name><url>https://lpnu.ua/zhzmk </url><institute>Права, психології та інноваційної освіти інститут</institute></item>
+<item><name>КПП Кафедра кримінального права і процесу</name><url>https://lpnu.ua/kpp </url><institute>Права, психології та інноваційної освіти інститут</institute></item>
+<item><name>ПІО Кафедра педагогіки та інноваційної освіти</name><url>https://lpnu.ua/pio </url><institute>Права, психології та інноваційної освіти інститут</institute></item>
+<item><name>ТПК Кафедра теорії пpaвa та конституціоналізму</name><url>https://lpnu.ua/tpk </url><institute>Права, психології та інноваційної освіти інститут</institute></item>
+<item><name>ТПП Кафедра теоретичної та практичної психології</name><url>https://lpnu.ua/tpp </url><institute>Права, психології та інноваційної освіти інститут</institute></item>
+<item><name>ЦБП Центр Британського Права</name><url>https://lpnu.ua/tsbp </url><institute>Права, психології та інноваційної освіти інститут</institute></item>
+<item><name>ЗТ Кафедра залізничного транспорту</name><url>https://lpnu.ua/zt </url><institute>Механічної інженерії та транспорту інститут</institute></item>
+<item><name>МІМ Кафедра матеріалознавства та інженерії матеріалів</name><url>https://lpnu.ua/mim </url><institute>Механічної інженерії та транспорту інститут</institute></item>
+<item><name>НГІЗ Кафедра нафтогазової інженерії та зварювання</name><url>https://lpnu.ua/nhiz </url><institute>Механічної інженерії та транспорту інститут</institute></item>
+<item><name>НЦ КДТЗ Навчальний центр комп’ютерної діагностики транспортних засобів «Львівська політехніка - Академія Бош»</name><url>https://lpnu.ua/nts-kdtz </url><institute>Механічної інженерії та транспорту інститут</institute></item>
+<item><name>ЕЛІ Кафедра електронної інженерії</name><url>https://lpnu.ua/eli </url><institute>Телекомунікацій, радіоелектроніки та електронної техніки інститут</institute></item>
+<item><name>НПЕ Кафедра напівпровідникової електроніки</name><url>https://lpnu.ua/npe </url><institute>Телекомунікацій, радіоелектроніки та електронної техніки інститут</institute></item>
+<item><name>РЕПС Кафедра радіоелектронних пристроїв та систем</name><url>https://lpnu.ua/reps </url><institute>Телекомунікацій, радіоелектроніки та електронної техніки інститут</institute></item>
+<item><name>МІ Кафедра міжнародної інформації</name><url>https://lpnu.ua/mi </url><institute>Прикладної математики та фундаментальних наук інститут</institute></item>
+<item><name>ОМП Кафедра обчислювальної математики і програмування</name><url>https://lpnu.ua/omp </url><institute>Прикладної математики та фундаментальних наук інститут</institute></item>
+<item><name>ПМ Кафедра прикладної математики</name><url>https://lpnu.ua/pm </url><institute>Прикладної математики та фундаментальних наук інститут</institute></item>
+<item><name>ПФН Кафедра прикладної фізики і наноматеріалознавства</name><url>https://lpnu.ua/pfn </url><institute>Прикладної математики та фундаментальних наук інститут</institute></item>
+<item><name>ОА Кафедра обліку та аналізу</name><url>https://lpnu.ua/oa </url><institute>Економіки і менеджменту інститут</institute></item>
+<item><name>ФІН Кафедра фінансів</name><url>https://lpnu.ua/fin </url><institute>Економіки і менеджменту інститут</institute></item>
+<item><name>КСА Кафедра комп'ютеризованих систем автоматики</name><url>https://lpnu.ua/ksa </url><institute>Комп'ютерних технологій, автоматики та метрології інститут</institute></item>
+<item><name>СКС Кафедра спеціалізованих комп'ютерних систем</name><url>https://lpnu.ua/sks </url><institute>Комп'ютерних технологій, автоматики та метрології інститут</institute></item>
+<item><name>ХТНР Кафедра хімії і технології неорганічних речовин</name><url>https://lpnu.ua/htnr </url><institute>Хімії та хімічних технологій інститут</institute></item>
+<item><name>ХТПП Кафедра хімічної технології переробки пластмас</name><url>https://lpnu.ua/htpp </url><institute>Хімії та хімічних технологій інститут</institute></item>
+<item><name>ХТС Кафедра хімічної технології силікатів</name><url>https://lpnu.ua/hts </url><institute>Хімії та хімічних технологій інститут</institute></item>
+<item><name>САП Кафедра систем автоматизованого проектування</name><url>https://lpnu.ua/sap </url><institute>Комп'ютерних наук та інформаційних технологій інститут</institute></item>
+<item><name>СШІ Кафедра систем штучного інтелекту</name><url>https://lpnu.ua/sshi </url><institute>Комп'ютерних наук та інформаційних технологій інститут</institute></item>
+<item><name>ЦБПД Центр безоплатної правової допомоги</name><url>https://lpnu.ua/cbpd </url><institute>Права, психології та інноваційної освіти інститут</institute></item>
+<item><name>ЦІОТ Центр інноваційних освітніх технологій</name><url>https://lpnu.ua/ciot </url><institute>Права, психології та інноваційної освіти інститут</institute></item>
+<item><name>ЦПДҐР Центр правових досліджень ґендерної рівності</name><url>https://lpnu.ua/tspdgr </url><institute>Права, психології та інноваційної освіти інститут</institute></item>
+<item><name>ПМАІ Кафедра проектування машин та автомобільного інжинірингу</name><url>https://lpnu.ua/pmai </url><institute>Механічної інженерії та транспорту інститут</institute></item>
+<item><name>РІТМ Кафедра робототехніки та інтегрованих технологій машинобудування</name><url>https://lpnu.ua/ritm </url><institute>Механічної інженерії та транспорту інститут</institute></item>
+<item><name>ТМІГ Кафедра технічної механіки та інженерної графіки</name><url>https://lpnu.ua/tmih </url><institute>Механічної інженерії та транспорту інститут</institute></item>
+<item><name>ТТ Кафедра транспортних технологій</name><url>https://lpnu.ua/tt </url><institute>Механічної інженерії та транспорту інститут</institute></item>
+<item><name>ТК Кафедра телекомунікацій</name><url>https://lpnu.ua/tk </url><institute>Телекомунікацій, радіоелектроніки та електронної техніки інститут</institute></item>
+<item><name>ТРР Кафедра теоретичної радіотехніки та радіовимірювання</name><url>https://lpnu.ua/trr </url><institute>Телекомунікацій, радіоелектроніки та електронної техніки інститут</institute></item>
+<item><name>ЦПП Кафедра цивільного права та процесу</name><url>https://lpnu.ua/tspp </url><institute>Права, психології та інноваційної освіти інститут</institute></item>
+<item><name>Завідувач кафедри: д.т.н., проф. Гоголюк Оксана Петрівна</name><department>ТЗЕ Кафедра теоретичної та загальної електротехніки</department><institute>Енергетики та систем керування інститут</institute></item>
+<item><name>Завідувач кафедри: д.т.н., професор Сегеда Михайло Станкович</name><department>ЕСУ Кафедра електроенергетики та систем управління</department><institute>Енергетики та систем керування інститут</institute></item>
+<item><name>Завідувач кафедри: д.т.н, проф. Щур Ігор Зенонович</name><department>ЕКС Кафедра електромехатроніки та комп'ютеризованих електромеханічних систем</department><institute>Енергетики та систем керування інститут</institute></item>
+<item><name>Завідувач кафедри: д.т.н., проф. Матіко Федір Дмитрович</name><department>АВКТ Кафедра автоматизації та комп'ютерно-інтегрованих технологій</department><institute>Енергетики та систем керування інститут</institute></item>
+<item><name>ЕБПД Кафедра екологічної безпеки та природоохоронної діяльності</name><url>https://lpnu.ua/ebpd </url><institute>Сталого розвитку і ім. В.Чорновола інститут</institute></item>
+<item><name>Завідувач кафедри: д.т.н., проф. Семерак Михайло Михайлович</name><department>ТТАЕ Кафедра теплоенергетики, теплових та атомних електричних станцій</department><institute>Енергетики та систем керування інститут</institute></item>
+<item><name>ЕЗП Кафедра екології та збалансованого природокористування</name><url>https://lpnu.ua/ezp </url><institute>Сталого розвитку і ім. В.Чорновола інститут</institute></item>
+<item><name>ПЕЕТ Кафедра підприємництва та екологічної експертизи товарів</name><url>https://lpnu.ua/peet </url><institute>Сталого розвитку і ім. В.Чорновола інститут</institute></item>
+<item><name>ТУР Кафедра туризму</name><url>https://lpnu.ua/tur </url><institute>Сталого розвитку і ім. В.Чорновола інститут</institute></item>
+<item><name>ЦБ Кафедра цивільної безпеки</name><url>https://lpnu.ua/tsb </url><institute>Сталого розвитку і ім. В.Чорновола інститут</institute></item>
+<item><name>Завідувач кафедри: д.т.н., доцент Церклевич Анатолій Леонтійович</name><department>ІГД Кафедра інженерної геодезії</department><institute>Геодезії інститут</institute></item>
+<item><name>Завідувач кафедри: к.т.н., доц. Перій Сергій Сергійович</name><department>КГ Кафедра геодезії</department><institute>Геодезії інститут</institute></item>
+<item><name>Завідувач кафедри: д.т.н., проф. Габрель Микола Михайлович</name><department>АП Кафедра архітектурного проектування</department><institute>Архітектури та дизайну інститут</institute></item>
+<item><name>Завідувач кафедри: доктор архітектури, проф. Гнесь Ігор Петрович</name><department>АПІ Кафедра архітектурного проектування та інженерії</department><institute>Архітектури та дизайну інститут</institute></item>
+<item><name>Завідувач кафедри: к.т.н., доц. Джуман Богдан Богданович</name><department>ВГА Кафедра вищої геодезії та астрономії</department><institute>Геодезії інститут</institute></item>
+<item><name>Завідувач кафедри: д.арх., проф. Проскуряков Віктор Іванович</name><department>ДАС Кафедра дизайну архітектурного середовища</department><institute>Архітектури та дизайну інститут</institute></item>
+<item><name>Завідувач кафедри: д.арх., проф. Бевз Микола Валентинович</name><department>АТР Кафедра архітектури та реставрації</department><institute>Архітектури та дизайну інститут</institute></item>
+<item><name>Завідувач кафедри: к.т.н. Марченко Дмитро Олександрович</name><department>КГМ Кафедра картографії та геопросторового моделювання</department><institute>Геодезії інститут</institute></item>
+<item><name>Завідувач кафедри: д.т.н., проф. Харченко Євген Валентинович</name><department>ОМБМ Кафедра опору матеріалів та будівельної механіки</department><institute>Будівництва та інженерних систем інститут</institute></item>
+<item><name>Завідувач кафедри д.т.н., доцент Губар Юрій Петрович</name><department>КДТ Кафедра кадастру територій</department><institute>Геодезії інститут</institute></item>
+<item><name>Завідувач кафедри: к.т.н. Шило Євгеній Олександрович</name><department>ФГІ Кафедра фотограмметрії та геоінформатики</department><institute>Геодезії інститут</institute></item>
+<item><name>Завідувач кафедри: д.т.н., професор  Чернюк Володимир Васильович</name><department>ГВІ Кафедра гідротехніки та водної інженерії</department><institute>Будівництва та інженерних систем інститут</institute></item>
+<item><name>Завідувач кафедри: к.арх., проф. Петришин Галина Петрівна</name><department>МБ Кафедра містобудування</department><institute>Архітектури та дизайну інститут</institute></item>
+<item><name>Завідувач кафедри: д.арх., доц. Лінда Світлана Миколаївна</name><department>ДОА Кафедра дизайну та основ архітектури</department><institute>Архітектури та дизайну інститут</institute></item>
+<item><name>Завідувач кафедри: д.т.н.,професор Желих Василь Михайлович</name><department>ТГВ Кафедра теплогазопостачання і вентиляції</department><institute>Будівництва та інженерних систем інститут</institute></item>
+<item><name>Завідувач кафедри: д.пед.н., доц. кафедри соціології та соціальної роботи Клос Лілія Євгенівна</name><department>СР Кафедра соціології та соціальної роботи</department><institute>Гуманітарних та соціальних наук інститут</institute></item>
+<item><name>Завідувач кафедри: д.т.н., проф. Климаш Михайло Миколайович</name><department>ТК Кафедра телекомунікацій</department><institute>Телекомунікацій, радіоелектроніки та електронної техніки інститут</institute></item>
+<item><name>Завідувач кафедри: д.т.н., проф. Ступницький Вадим Володимирович</name><department>РІТМ Кафедра робототехніки та інтегрованих технологій машинобудування</department><institute>Механічної інженерії та транспорту інститут</institute></item>
+<item><name>Завідувач кафедри: д.т.н., професор, Горбатий Іван Володимирович</name><department>ТРР Кафедра теоретичної радіотехніки та радіовимірювання</department><institute>Телекомунікацій, радіоелектроніки та електронної техніки інститут</institute></item>
+<item><name>Завідувач кафедри: д.т.н., проф. Дмитрів Василь Тарасович</name><department>ПМАІ Кафедра проектування машин та автомобільного інжинірингу</department><institute>Механічної інженерії та транспорту інститут</institute></item>
+<item><name>Керівник Навчального центру: Мальнов Сергій Іванович</name><department>НЦ КДТЗ Навчальний центр комп’ютерної діагностики транспортних засобів «Львівська політехніка - Академія Бош»</department><institute>Механічної інженерії та транспорту інститут</institute></item>
+<item><name>Завідувач кафедри: канд. техн. наук, доцент Корендій Віталій Михайлович Заступник завідувача кафедри: канд. техн. наук, доцент Предко Ростислав Ярославович Заступник завідувача кафедри: канд. техн. наук, доцент Стоцько Ростислав Зіновійович</name><department>ТМІГ Кафедра технічної механіки та інженерної графіки</department><institute>Механічної інженерії та транспорту інститут</institute></item>
+<item><name>Керівник Центру – Андрусяк Ірина Павлівна</name><department>ЦПДҐР Центр правових досліджень ґендерної рівності</department><institute>Права, психології та інноваційної освіти інститут</institute></item>
+<item><name>Завідувач кафедри: д.т.н, доц. Оборжицький Валерій Іванович</name><department>РЕПС Кафедра радіоелектронних пристроїв та систем</department><institute>Телекомунікацій, радіоелектроніки та електронної техніки інститут</institute></item>
+<item><name>Завідувач кафедри: к.т.н., доцент Ройко Юрій Ярославович</name><department>ТТ Кафедра транспортних технологій</department><institute>Механічної інженерії та транспорту інститут</institute></item>
+<item><name>Завідувач кафедри: д.е.н., проф. Теребух Андрій Андрійович</name><department>ТУР Кафедра туризму</department><institute>Сталого розвитку і ім. В.Чорновола інститут</institute></item>
+<item><name>Директор центру: кандидат педагогічних наук, доцент Носкова Маргарита Вячеславівна</name><department>ЦІОТ Центр інноваційних освітніх технологій</department><institute>Права, психології та інноваційної освіти інститут</institute></item>
+<item><name>Завідувач кафедри: д.т.н., проф. Петрушка Ігор Михайлович</name><department>ЕБПД Кафедра екологічної безпеки та природоохоронної діяльності</department><institute>Сталого розвитку і ім. В.Чорновола інститут</institute></item>
+<item><name>Завідувач кафедри: д.т.н, проф. Нагурський Олег Антонович</name><department>ЦБ Кафедра цивільної безпеки</department><institute>Сталого розвитку і ім. В.Чорновола інститут</institute></item>
+<item><name>Завідувач кафедри: д.т.н., проф. Мальований Мирослав Степанович</name><department>ЕЗП Кафедра екології та збалансованого природокористування</department><institute>Сталого розвитку і ім. В.Чорновола інститут</institute></item>
+<item><name>Завідувач кафедри: д.е.н., проф. Князь Святослав Володимирович</name><department>ПЕЕТ Кафедра підприємництва та екологічної експертизи товарів</department><institute>Сталого розвитку і ім. В.Чорновола інститут</institute></item>
+<item><name>Завідувач кафедри: д.юр.н., професор Личенко Ірина Олександрівна</name><department>ЦПП Кафедра цивільного права та процесу</department><institute>Права, психології та інноваційної освіти інститут</institute></item>
+<item><name>Координатор: Ірина Софінська</name><department>ЦБП Центр Британського Права</department><institute>Права, психології та інноваційної освіти інститут</institute></item>
+<item><name>Керівниця центру: Перів Ірина Володимирівна</name><department>ЦБПД Центр безоплатної правової допомоги</department><institute>Права, психології та інноваційної освіти інститут</institute></item>
+<item><name>Завідувач кафедри: д.т.н., проф. Левицький Володимир Євстахович Заступник завідувача кафедри: к.т.н., доц. Моравський Володимир Степанович</name><department>ХТПП Кафедра хімічної технології переробки пластмас</department><institute>Хімії та хімічних технологій інститут</institute></item>
+<item><name>Завідувач кафедри: д.т.н., проф. Шаховська Наталія Богданівна</name><department>СШІ Кафедра систем штучного інтелекту</department><institute>Комп'ютерних наук та інформаційних технологій інститут</institute></item>
+<item><name>Завідувач кафедри: д.т.н., проф. Лобур Михайло Васильович</name><department>САП Кафедра систем автоматизованого проектування</department><institute>Комп'ютерних наук та інформаційних технологій інститут</institute></item>
+<item><name>Завідувач кафедри: д.філол.н., проф. Левченко Олена Петрівна</name><department>ПЛ Кафедра прикладної лінгвістики</department><institute>Комп'ютерних наук та інформаційних технологій інститут</institute></item>
+<item><name>Завідувач кафедри: д.т.н., проф. Знак Зеновій Орестович</name><department>ХТНР Кафедра хімії і технології неорганічних речовин</department><institute>Хімії та хімічних технологій інститут</institute></item>
+<item><name>В.о. завідувача кафедри д.т.н., проф. Луцюк Ірина Володимирівна</name><department>ХТС Кафедра хімічної технології силікатів</department><institute>Хімії та хімічних технологій інститут</institute></item>
+<item><name>Завідувач кафедри: д.т.н., проф. Кочан Роман Володимирович</name><department>СКС Кафедра спеціалізованих комп'ютерних систем</department><institute>Комп'ютерних технологій, автоматики та метрології інститут</institute></item>
+<item><name>Завідувач кафедри: д.е.н., професор Яремко Ігор Йосафатович</name><department>ОА Кафедра обліку та аналізу</department><institute>Економіки і менеджменту інститут</institute></item>
+<item><name>Завідувач кафедри: д.т.н., проф. Андрущак Анатолій Степанович</name><department>ПФН Кафедра прикладної фізики і наноматеріалознавства</department><institute>Прикладної математики та фундаментальних наук інститут</institute></item>
+<item><name>Завідувач кафедри: д.т.н., проф. Наконечний Адріан Йосифович</name><department>КСА Кафедра комп'ютеризованих систем автоматики</department><institute>Комп'ютерних технологій, автоматики та метрології інститут</institute></item>
+<item><name>Завідувач кафедри фінансів: д.е.н., професор Бондарчук Марія Костянтинівна</name><department>ФІН Кафедра фінансів</department><institute>Економіки і менеджменту інститут</institute></item>
+<item><name>Завідувач кафедри: д.т.н., проф. Івахів Орест Васильович</name><department>ІМР Кафедра інтелектуальної мехатроніки і роботики</department><institute>Комп'ютерних технологій, автоматики та метрології інститут</institute></item>
+<item><name>Завідувач кафедри: д.т.н.,  проф. Гринишин Олег Богданович</name><department>ХТНГ Кафедра хімічної технології переробки нафти та газу</department><institute>Хімії та хімічних технологій інститут</institute></item>
+<item><name>Завідувач кафедри: д.е.н., доц. Ситник Йосиф Степанович</name><department>МПА Кафедра менеджменту персоналу та адміністрування</department><institute>Економіки і менеджменту інститут</institute></item>
+<item><name>Завідувач кафедри: д.ф-м.н, проф. Маркович Богдан Михайлович</name><department>ПМ Кафедра прикладної математики</department><institute>Прикладної математики та фундаментальних наук інститут</institute></item>
+<item><name>Завідувач кафедри : к.т.н. Семків Ігор Володимирович Заступник   к.ф.-м.н.  Гончар Федір Михайлович</name><department>КЗФ Кафедра загальної фізики</department><institute>Прикладної математики та фундаментальних наук інститут</institute></item>
+<item><name>Завідувач кафедри: д.політ.н., проф. Гулай Василь Васильович</name><department>МІ Кафедра міжнародної інформації</department><institute>Прикладної математики та фундаментальних наук інститут</institute></item>
+<item><name>Завідувач кафедри: д.ф.-м.н., проф. Демків Ігор Іванович</name><department>ОМП Кафедра обчислювальної математики і програмування</department><institute>Прикладної математики та фундаментальних наук інститут</institute></item>
+<item><name>Завідувач кафедри: д.т.н., проф. Дружинін Анатолій Олександрович</name><department>НПЕ Кафедра напівпровідникової електроніки</department><institute>Телекомунікацій, радіоелектроніки та електронної техніки інститут</institute></item>
+<item><name>Завідувач кафедри: д.т.н., проф. Яремчук Ірина Ярославівна</name><department>ЕЛІ Кафедра електронної інженерії</department><institute>Телекомунікацій, радіоелектроніки та електронної техніки інститут</institute></item>
+<item><name>Завідувач кафедри: д.т.н., проф. Дурягіна Зоя Антонівна</name><department>МІМ Кафедра матеріалознавства та інженерії матеріалів</department><institute>Механічної інженерії та транспорту інститут</institute></item>
+<item><name>Завідувач кафедри: д.т.н., проф. Романишин Юрій Михайлович</name><department>ЕЗІКТ Кафедра електронних засобів інформаційно-комп’ютерних технологій</department><institute>Телекомунікацій, радіоелектроніки та електронної техніки інститут</institute></item>
+<item><name>Завідувач кафедри: д.т.н., проф. Максимович Олеся Володимирівна</name><department>НГІЗ Кафедра нафтогазової інженерії та зварювання</department><institute>Механічної інженерії та транспорту інститут</institute></item>
+<item><name>Завідувач кафедри: д.т.н., проф. Кіндрацький Богдан Ілліч</name><department>АТ Кафедра автомобільного транспорту</department><institute>Механічної інженерії та транспорту інститут</institute></item>
+<item><name>Завідувач кафедри:  д. психол. наук, професор Сняданко Ірина Ігорівна</name><department>ТПП Кафедра теоретичної та практичної психології</department><institute>Права, психології та інноваційної освіти інститут</institute></item>
+<item><name>Завідувач кафедри: д.ю.н., проф. Ковальчук Віталій Богданович</name><department>ТПК Кафедра теорії пpaвa та конституціоналізму</department><institute>Права, психології та інноваційної освіти інститут</institute></item>
+<item><name>Завідувач кафедри: д.юр. н., проф. Гумін Олексій Михайлович</name><department>КПП Кафедра кримінального права і процесу</department><institute>Права, психології та інноваційної освіти інститут</institute></item>
+<item><name>Завідувач кафедри: д.ю.н., професор Бліхар Марія Миронівна</name><department>АІП Кафедра адміністративного та інформаційного права</department><institute>Права, психології та інноваційної освіти інститут</institute></item>
+<item><name>Завідувач кафедри: д.пед.н., професор Горохівська Тетяна Миколаївна</name><department>ПІО Кафедра педагогіки та інноваційної освіти</department><institute>Права, психології та інноваційної освіти інститут</institute></item>
+<item><name>Завідувач кафедри: к.соц.ком., доцент Галаджун Зоряна Володимирівна</name><department>ЖЗМК Кафедра журналістики та засобів масової комунікації</department><institute>Права, психології та інноваційної освіти інститут</institute></item>
+<item><name>Завідувач кафедри: д.т.н., проф. Литвин Василь Володимирович</name><department>ІСМ Кафедра інформаційних систем та мереж</department><institute>Комп'ютерних наук та інформаційних технологій інститут</institute></item>
+<item><name>Завідувач кафедри: д.т.н., проф. Федасюк Дмитро Васильович</name><department>ПЗ Кафедра програмного забезпечення</department><institute>Комп'ютерних наук та інформаційних технологій інститут</institute></item>
+<item><name>Завідувач кафедри: к.т.н., доцент Баль Олена Миронівна</name><department>ЗТ Кафедра залізничного транспорту</department><institute>Механічної інженерії та транспорту інститут</institute></item>
+<item><name>Завідувач кафедри: д.х.н., проф. Шаповал Павло Йосифович</name><department>ФАЗХ Кафедра фізичної, аналітичної та загальної хімії</department><institute>Хімії та хімічних технологій інститут</institute></item>
+<item><name>д-р техн. наук, проф. Шаховська Наталія Богданівна</name><department>ННВЦ Навчально-науково-виробничий центр «Інформаційні технології та системи»</department><institute>Комп'ютерних наук та інформаційних технологій інститут</institute></item>
+<item><name>Завідувач кафедри:  к.т.н., доцент, Кустра Наталія Омельянівна</name><department>ІТВС Кафедра інформаційних технологій видавничої справи</department><institute>Комп'ютерних наук та інформаційних технологій інститут</institute></item>
+<item><name>Завідувач кафедри: д.т.н., проф. Атаманюк Володимир Михайлович</name><department>ХІ Кафедра хімічної інженерії</department><institute>Хімії та хімічних технологій інститут</institute></item>
+<item><name>Завідувач кафедри: д.т.н., проф. Теслюк Василь Миколайович</name><department>АСУ Кафедра автоматизованих систем управління</department><institute>Комп'ютерних наук та інформаційних технологій інститут</institute></item>
+<item><name>Завідувач кафедри: д.х.н., проф. Лубенець Віра Ільківна</name><department>ТБСФБ Кафедра технології біологічно активних сполук, фармації та біотехнології</department><institute>Хімії та хімічних технологій інститут</institute></item>
+<item><name>Завідувач кафедри: д.х.н., проф. Дончак Володимир Андрійович</name><department>ОХ Кафедра органічної хімії</department><institute>Хімії та хімічних технологій інститут</institute></item>
+<item><name>Завідувач кафедри: д.т.н., проф. Дзіняк Богдан Остапович</name><department>ТОП Кафедра технології органічних продуктів</department><institute>Хімії та хімічних технологій інститут</institute></item>
+<item><name>Завідувач кафедри:  д.т.н., с.н.с., проф.  Журавель Ігор Михайлович</name><department>БІТ Кафедра безпеки інформаційних технологій</department><institute>Комп'ютерних технологій, автоматики та метрології інститут</institute></item>
+<item><name>Завідувач кафедри: д.т.н., проф. Бубела Тетяна Зиновіївна</name><department>ІВТ Кафедра інформаційно-вимірювальних технологій</department><institute>Комп'ютерних технологій, автоматики та метрології інститут</institute></item>
+<item><name>Завідувач кафедри: д.т.н., проф. Опірський Іван Романович</name><department>ЗІ Кафедра захисту інформації</department><institute>Комп'ютерних технологій, автоматики та метрології інститут</institute></item>
+<item><name>Контактна особа: Роман Небесний (начальник НДЧ) Контактна особа: Ірина Романовська (завідувач відділу маркетингу)</name><department>Проєкт «До вершин з РОШЕН»</department><institute>Хімії та хімічних технологій інститут</institute></item>
+<item><name>Завідувач кафедри: д.т.н., проф. Дунець Роман Богданович</name><department>ЕОМ Кафедра електронних обчислювальних машин</department><institute>Комп'ютерних технологій, автоматики та метрології інститут</institute></item>
+<item><name>Керівник Центру – Левицька - Ревуцька Ольга Євгенівна</name><department>ЦПКФ Центр підвищення кваліфікації фахівців</department><institute>Адміністрування, державного управління та професійного розвитку інститут</institute></item>
+<item><name>Завідувач кафедри: д.е.н., проф. Мельник Ольга Григорівна</name><department>ЗМД Кафедра зовнішньоекономічної та митної діяльності</department><institute>Економіки і менеджменту інститут</institute></item>
+<item><name>Завідувач кафедри: д.е.н., проф. Карий Олег Ігорович</name><department>МО Кафедра менеджменту організацій</department><institute>Економіки і менеджменту інститут</institute></item>
+<item><name>Керівник центру: Симутис Марта Миронівна</name><department>ЦПКПС Центр підвищення кваліфікації публічних службовців</department><institute>Адміністрування, державного управління та професійного розвитку інститут</institute></item>
+<item><name>Завідувач кафедри: д.е.н., професор Крикавський Євген Васильович</name><department>МЛ Кафедра маркетингу і логістики</department><institute>Економіки і менеджменту інститут</institute></item>
+<item><name>Завідувач кафедри: д.ф.-м.н., проф. Філевич Петро Васильович</name><department>ВМ Кафедра вищої математики</department><institute>Прикладної математики та фундаментальних наук інститут</institute></item>
+<item><name>Завідувач кафедри: д.е.н., доц. Колещук Орест Ярославович</name><department>ЕПІ Кафедра економіки підприємства та інвестицій</department><institute>Економіки і менеджменту інститут</institute></item>
+<item><name>Завідувач кафедри: д.е.н., проф. Пирог Ольга Володимирівна</name><department>ММП Кафедра менеджменту і міжнародного підприємництва</department><institute>Економіки і менеджменту інститут</institute></item>
+<item><name>Керівник: к.е.н. Скворцов Денис Ігорович</name><department>ЦПАС Центр професійної атестації та сертифікації</department><institute>Адміністрування, державного управління та професійного розвитку інститут</institute></item>
+<item><name>Завідувач кафедри: к.філол.н., доц. Куньч Зоряна Йосипівна</name><department>УМ Кафедра української мови</department><institute>Гуманітарних та соціальних наук інститут</institute></item>
+<item><name>Завідувач кафедри: к.т.н., доцент Марковець Олександр Вікторович</name><department>СКІД Кафедра соціальних комунікацій та інформаційної діяльності</department><institute>Гуманітарних та соціальних наук інститут</institute></item>
+<item><name>Завідувач кафедри: д.пед.н., д.н. ф/в і с., проф. Корягін Віктор Максимович</name><department>ФВ Кафедра фізичного виховання</department><institute>Гуманітарних та соціальних наук інститут</institute></item>
+<item><name>Завідувач кафедри: д.е.н., професор Ільчук Павло Григорович</name><department>УП Кафедра управління проектами</department><institute>Адміністрування, державного управління та професійного розвитку інститут</institute></item>
+<item><name>Завідувач кафедри: д.е.н., проф. Поплавська Жанна Василівна</name><department>ТПЕ Кафедра теоретичної та прикладної економіки</department><institute>Адміністрування, державного управління та професійного розвитку інститут</institute></item>
+<item><name>Науковий керівник: д-р політ. наук, проф. Турчин Ярина Богданівна</name><department>НАЦ ПД «Вектор» Науково-аналітичний центр політичних досліджень «Вектор»</department><institute>Гуманітарних та соціальних наук інститут</institute></item>
+<item><name>Завідувач кафедри: д. політ. н., проф. Луцишин Галина Іванівна</name><department>ПМВ Кафедра політології та міжнародних відносин</department><institute>Гуманітарних та соціальних наук інститут</institute></item>
+<item><name>Завідувач кафедри: д.е.н., проф. Сидорчук Ористлава Григорівна</name><department>РМР Кафедра регіонального та місцевого розвитку</department><institute>Адміністрування, державного управління та професійного розвитку інститут</institute></item>
+<item><name>Завідувач кафедри: д.т.н., доцент Хміль Роман Євгенович</name><department>БКМ Кафедра будівельних конструкцій та мостів</department><institute>Будівництва та інженерних систем інститут</institute></item>
+<item><name>Завідувач  кафедри: д.т.н., проф. Саницький Мирослав Андрійович</name><department>БВ Кафедра будівельного виробництва</department><institute>Будівництва та інженерних систем інститут</institute></item>
+<item><name>Завідувач кафедри: д-р. філос. наук, доц. Карівець Ігор Володимирович</name><department>КФ Кафедра філософії</department><institute>Гуманітарних та соціальних наук інститут</institute></item>
+<item><name>Завідувач кафедри: к.істор.н., доц. Хома Іван Ярославович</name><department>ІМКС Кафедра історії, музеєзнавства та культурної спадщини</department><institute>Гуманітарних та соціальних наук інститут</institute></item>
+<item><name>Завідувач кафедри - доцент, к.пед.н. Яремко Галина Володимирівна</name><department>ІМ Кафедра іноземних мов</department><institute>Гуманітарних та соціальних наук інститут</institute></item>
+<item><name>Завідувач кафедри АДМ: д.т.н., проф. Соболь Христина Степанівна</name><department>АДМ Кафедра автомобільних доріг та мостів</department><institute>Будівництва та інженерних систем інститут</institute></item>
+<item><name>Директор: Шаповалова Тетяна Вікторівна</name><department>МЦПП «Інтеграція» Міжнародний центр професійного партнерства «Інтеграція» - International “Integration” Centre for Professional Partnerships</department><institute>Гуманітарних та соціальних наук інститут</institute></item>
+<item><name>Директор: к.т.н. Денис Невінський</name><department>НУОЦ Німецько-Український освітній центр</department><institute>Адміністрування, державного управління та професійного розвитку інститут</institute></item>
+<item><name>Завідувач кафедри: Гориславець Павло Анатолійович, к.е.н., доц.</name><department>ФОА Кафедра фінансів, обліку і аналізу</department><institute>Просторового планування та перспективних технологій інститут</institute></item>
+<item><name>Завідувач кафедри: д.е.н., проф. Подольчак Назарій Юрійович</name><department>АФМ Кафедра адміністративного та фінансового менеджменту</department><institute>Адміністрування, державного управління та професійного розвитку інститут</institute></item>
+<item><name>в.о. завідувача кафедри: д.е.н., професор Безпарточний Максим Григорович</name><department>ЕКМ Кафедра економіки і маркетингу</department><institute>Просторового планування та перспективних технологій інститут</institute></item>
+<item><name>Завідувач кафедри: к.т.н., доцент Лагун Андрій Едуардович</name><department>ІСТ Кафедра інформаційних систем і технологій</department><institute>Просторового планування та перспективних технологій інститут</institute></item>
+<item><name>Завідувач кафедри: д. держ. упр., проф. Петровський П. М.</name><department>ПУС Кафедра публічного управління та публічної служби</department><institute>Адміністрування, державного управління та професійного розвитку інститут</institute></item>
+<item><name>Завідувач кафедри: д.і.н., проф. Красівський Орест Якубович</name><department>ДПВ Кафедра державної політики та врядування</department><institute>Адміністрування, державного управління та професійного розвитку інститут</institute></item>
+</items>
