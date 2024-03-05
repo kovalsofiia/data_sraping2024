@@ -5,7 +5,7 @@ class LpnuSpider(scrapy.Spider):
     name = "lpnu_xpath"
     allowed_domains = ["lpnu.ua"]
     start_urls = ["https://lpnu.ua/institutes"]
-
+# назви інститутів
     def parse(self, response):
         institutes = response.xpath("//div[@class='view-content']//div[contains(@class, 'item-list')]")
         for institute in institutes:
