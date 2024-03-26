@@ -15,6 +15,8 @@ class Lab2Item(scrapy.Item):
 class InstituteItem(scrapy.Item):
     name = scrapy.Field()
     url = scrapy.Field()
+    image_urls = scrapy.Field()
+    images = scrapy.Field()
     
 class DepartmentItem(scrapy.Item):
     name = scrapy.Field()

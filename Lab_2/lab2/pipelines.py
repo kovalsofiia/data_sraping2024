@@ -61,7 +61,7 @@ class MongoDBPipeline:
         }
         update_query = {
             '$set': {  # Use $set to update specific fields
-                # Update fields as needed
+                'image': item['image'] if 'image' in item else None 
             }
         }
         self.collection.update_one(query, update_query)

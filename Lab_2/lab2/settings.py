@@ -64,9 +64,11 @@ ROBOTSTXT_OBEY = False
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
 ITEM_PIPELINES = {
     "lab2.pipelines.CleanNamePipeline": 100,
-    "lab2.pipelines.MongoDBPipeline": 200,
+    # "lab2.pipelines.MongoDBPipeline": 200,
+    "scrapy.pipelines.images.ImagesPipeline": 1
 }
-
+IMAGES_STORE = "./img"
+IMAGES_EXPIRES = 0
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See https://docs.scrapy.org/en/latest/topics/autothrottle.html
 #AUTOTHROTTLE_ENABLED = True

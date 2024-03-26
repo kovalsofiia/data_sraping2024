@@ -19,15 +19,12 @@ class LpnuSpider(scrapy.Spider):
                 institute_link_end = institute_paragraph.find('a').get("href")
                 institute_url = f"https://lpnu.ua{institute_link_end}"
 
-                yield InstituteItem(
-                    name=institute_name,
-                    url=institute_url
-                )
+                
                 # Запит на парсинг сторінки інституту, передаємо дані про інститут через мета
                 yield scrapy.Request(
                     url=institute_url,
                     callback=self.parse_institute,
-                    meta={"institute_name": institute_name}
+                    meta={"institute_name": institute_name, "institute_url": institute_url}
                 )
 
     def parse_institute(self, response):
@@ -35,6 +32,15 @@ class LpnuSpider(scrapy.Spider):
         dep_list = soup.find(class_="item-list")
         departments_names = dep_list.find_all('li')
         institute_name = response.meta["institute_name"]  # Отримуємо ім'я інституту з мета-даних
+        institute_url = response.meta["institute_url"]
+        institute_image_url = soup.find(class_="views-field views-field-field-logotype").find(class_="img-responsive", name= "img").get("src")
+        full_image_url = f"https://lpnu.ua{institute_image_url}"
+        
+        yield InstituteItem(
+            name=institute_name,
+            url=institute_url,
+            image_urls= [full_image_url]
+            )
         
         if dep_list:
             for department in departments_names:
@@ -43,7 +49,7 @@ class LpnuSpider(scrapy.Spider):
                 yield DepartmentItem(
                     name=dep_name,
                     url=dep_url,
-                    institute=institute_name  # Додаємо ім'я інституту до кожної кафедри
+                    institute=institute_name,  # Додаємо ім'я інституту до кожної кафедри
                 )
                 yield scrapy.Request(
                     # адреса сторінки, яку необхідно парсити
@@ -53,7 +59,7 @@ class LpnuSpider(scrapy.Spider):
                     # передаємо дані про кафедру в функцію колбеку
                     meta={
                         "department": dep_name,
-                        "institute": institute_name,
+                        "institute": institute_name
                     }
                 )
                 
@@ -63,5 +69,5 @@ class LpnuSpider(scrapy.Spider):
         yield StaffItem(
             name=zav_caf,
             department=response.meta.get("department"),
-            institute=response.meta.get("institute")
+            institute=response.meta.get("institute"),
         )
